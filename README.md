@@ -1,4 +1,4 @@
-# Hi there, I'm M. Wahyu Hilal Abroor 👋
+# Hi there, I'm Abroor
 ### Informatics Engineering Student | Aspiring Software Developer & Product Engineer
 
 I'm an Informatics Engineering student driven by how code, data, and design come together to solve real-world problems. I enjoy building functional applications and am always looking for opportunities to grow, collaborate, and expand my technical horizons.
@@ -58,7 +58,7 @@ I'm an Informatics Engineering student driven by how code, data, and design come
 
 Whether you're a recruiter looking for an eager-to-learn tech student, a fellow developer, or just want to discuss interesting projects, feel free to connect!
 
-* 💼 **LinkedIn:** [linkedin.com/in/wahyu-abroor-b040bb417](https://www.linkedin.com/in/wahyu-abroor-b040bb417/)
+* 💼 **LinkedIn:** [wahyu-abroor](https://www.linkedin.com/in/wahyu-abroor-b040bb417/)
 * 📧 **Email:** [wahyuabroor@gmail.com](mailto:wahyuabroor@gmail.com)
-* 🌐 **GitHub:** [github.com/hilalabroor](https://github.com/hilalabroor)
-* 📸 **Instagram:** [instagram.com/wahyuabrr](https://www.instagram.com/wahyuabrr/) 
+* 🌐 **Page:** [AbroorPage](https://hilalabroor.github.io/abroorpage/)
+* 📸 **Instagram:** [wahyuabrr](https://www.instagram.com/wahyuabrr/) 
